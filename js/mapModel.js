@@ -1,11 +1,11 @@
 var models = {
-    "snow": {
-        id: "#snow",
-        position: "0 0 -9",
-        rotation: "0 0 0",
-        scale: "10 10 10"
-    },
     "astro": {
+        id: "#astro",
+        position: "0 -5 -20",
+        rotation:"0 0 0",
+        scale: "2 2 2"
+    },
+    "robot": {
         id: "#robot",
         position: "0 0 -10",
         rotation:"0 180 0",
