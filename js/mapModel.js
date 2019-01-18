@@ -5,7 +5,7 @@ var models = {
         rotation: "0 0 0",
         scale: "10 10 10"
     },
-    "robot": {
+    "astro": {
         id: "#robot",
         position: "0 0 -10",
         rotation:"0 180 0",
